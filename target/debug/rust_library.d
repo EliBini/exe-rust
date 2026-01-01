@@ -1,0 +1,1 @@
+C:\Users\Programer\Desktop\Rust\target\debug\rust_library.exe: C:\Users\Programer\Desktop\Rust\src\book.rs C:\Users\Programer\Desktop\Rust\src\library.rs C:\Users\Programer\Desktop\Rust\src\loan.rs C:\Users\Programer\Desktop\Rust\src\main.rs C:\Users\Programer\Desktop\Rust\src\member.rs
